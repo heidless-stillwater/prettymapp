@@ -1,3 +1,4 @@
+
 # prettymapp 🖼️
 
 **Prettymapp is a webapp and Python package to create beautiful maps from OpenStreetMap data**
@@ -8,8 +9,6 @@
 </h3>
 
 ---
-
-
 
 <p align="center">
     <a href="https://prettymapp.streamlit.app/"><img src="./streamlit-prettymapp/example_prints/demo.gif" width=700></a>
